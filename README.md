@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello now, I'm Batuhan! 👋
 
-<!--
-**BatuhanOzdemir-dev/BatuhanOzdemir-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 In games I usually go with the name 'Viellyn'. 
 
-Here are some ideas to get you started:
+🎮 I've been creating games for over 4 years! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Recently I've completed all my classes for my Undergraduate study at Uludağ University. 
+
+💼 As of then I've been looking for an internship on Game Dev or AI. 
+
+🤖 Currently having completed my thesis on power-line classification with VGG19, I keep learning about Deep Learning!
+
+🤔 As such, I'd love any help or advice on getting better on this field.
+
+🎧 Fun fact: I'm really into mad music like Hard Rock & Power Metal!
+
+☕️ And I love my Coffee made of half-milk-half-water, with sugar of course.
