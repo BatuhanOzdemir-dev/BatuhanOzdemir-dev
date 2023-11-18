@@ -1,6 +1,6 @@
 ### Hello now, I'm Batuhan! 👋
 
-💼 ASP.NET Developer.
+💼 .NET Developer.
 
 🎓 Graduated from Uludağ University.
 
